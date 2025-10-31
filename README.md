@@ -9,5 +9,8 @@ Mesmo sem acesso direto à AWS, este projeto documenta o passo a passo, comandos
 ---
 
 ## Estrutura do Projeto
+## 📸 Captura de Tela do Projeto
+
+![Estrutura do Repositório](images/Captura de Tela 2025-10-31 às 11.44.17)
 
 
